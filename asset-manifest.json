@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gestor-de-tareas/static/css/main.b29cac3a.css",
+    "main.js": "/gestor-de-tareas/static/js/main.b3fb76ab.js",
+    "index.html": "/gestor-de-tareas/index.html",
+    "main.b29cac3a.css.map": "/gestor-de-tareas/static/css/main.b29cac3a.css.map",
+    "main.b3fb76ab.js.map": "/gestor-de-tareas/static/js/main.b3fb76ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b29cac3a.css",
+    "static/js/main.b3fb76ab.js"
+  ]
+}
